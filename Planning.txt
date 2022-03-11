@@ -1,0 +1,19 @@
+What HTML would be useful for the game board itself?
+Divs
+
+How could you represent a played-piece in the HTML board?
+A nested div inside the place div
+
+In the JavaScript, what would be a good structure for the in-memory game board?
+A nested array
+
+What might the flow of the game be?
+initialize board
+player 1 turn
+place token function
+check if win
+player 2 turn(change token color)
+place token function
+check if win
+if win, alert
+
